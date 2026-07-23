@@ -17,7 +17,7 @@
 | 專案名稱 | 里山小農產銷媒合平台（幫在地小農把產品資訊上架給團購社群） |
 | 線上系統 | https://satoyama-match.example.app |
 | 版本控制 | https://github.com/example-org/satoyama-match |
-| 其他關鍵連結 | 資料庫後台（試算表）：連結在 repo 的 `docs/links.md`，權限找雅婷開 |
+| 其他關鍵連結 | 資料庫後台（試算表）：連結在 repo 的 `docs/links.md`，權限找管理人開 |
 
 ## 二、本次交接前，最重要的三件事
 
