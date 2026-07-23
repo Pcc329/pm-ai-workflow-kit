@@ -24,6 +24,7 @@ instances/   各專案的具體事實（SETUP、地雷紀錄、判斷案例）
 |---|---|
 | `project-kickoff-interview.md` | **入口**。貼給 AI 就能訪談新接手的人，產出專案 SETUP 初稿 |
 | `workflow-pipeline.md` | 需求怎麼變成可執行的規格、怎麼審查回傳結果 |
+| `ai-collaboration-roles.md` | 多 AI 工具偕同時，哪個工具站哪個崗、為什麼檢查要做兩道 |
 | `codex_spec_template.md` | 每次交派任務的規格書固定格式 |
 | `handover_template.md` | 交接/中斷點紀錄的固定格式，讓任何人（含未來的自己）10分鐘內接手 |
 | `data-cleaning-patterns.md` | 處理外部/半結構化資料時，普遍會踩到的陷阱模式 |
@@ -51,4 +52,4 @@ instances/   各專案的具體事實（SETUP、地雷紀錄、判斷案例）
 MIT — 歡迎參考、修改、實際使用於你自己的專案。
 
 ---
-*Core v1.1 · 2026-07-23 · 新增啟動訪談與示範 instance*
+Core v1.2 · 2026-07-23 · 新增 AI 協作角色分工
